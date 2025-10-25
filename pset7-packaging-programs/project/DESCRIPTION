@@ -1,0 +1,10 @@
+Package: letternumber
+Title: Letter Number Converter
+Description: Converts a string of letters into numbers. Each number is associated with its position in the alphabet.
+Version: 1.0.0
+Authors@R: person("Joanne", "Varughese", email = "joanne.varughese@warwick.ac.uk", role = c("aut", "cre", "cph"))
+License: MIT + file LICENSE
+Encoding: UTF-8
+Suggests: 
+  testthat (>= 3.0.0)
+Config/testthat/edition: 3
